@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "73b444baca58157cfeb4ef3830c12bbc",
+    "content-hash": "3ad11427bd1336309f02808f563048f2",
     "packages": [
         {
             "name": "doctrine/annotations",
@@ -2834,16 +2834,16 @@
         },
         {
             "name": "symfony/symfony",
-            "version": "v4.2.7",
+            "version": "v4.2.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/symfony.git",
-                "reference": "6122c791d640b75702514c18c8aae816dbbefae2"
+                "reference": "cd999a4b6c8070cc00ce2f98479517f75e103bca"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/symfony/zipball/6122c791d640b75702514c18c8aae816dbbefae2",
-                "reference": "6122c791d640b75702514c18c8aae816dbbefae2",
+                "url": "https://api.github.com/repos/symfony/symfony/zipball/cd999a4b6c8070cc00ce2f98479517f75e103bca",
+                "reference": "cd999a4b6c8070cc00ce2f98479517f75e103bca",
                 "shasum": ""
             },
             "require": {
@@ -2991,7 +2991,7 @@
             "keywords": [
                 "framework"
             ],
-            "time": "2019-04-17T16:17:33+00:00"
+            "time": "2019-04-16T07:20:43+00:00"
         },
         {
             "name": "tijsverkoyen/css-to-inline-styles",
