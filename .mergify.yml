@@ -1,1 +1,9 @@
 pull_request_rules:
+  - name: automatic merge for master when reviewed and CI passes
+    conditions:
+      - "status-success=ci/circleci: testing_job"
+      - "#approved-reviews-by>=2"
+      - base=master
+    actions:
+      merge:
+        method: merge
